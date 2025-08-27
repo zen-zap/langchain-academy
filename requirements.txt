@@ -1,4 +1,5 @@
 langgraph
+langgraph-cli[inmem]
 langgraph-prebuilt
 langgraph-sdk
 langgraph-checkpoint-sqlite
@@ -6,8 +7,12 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
+langchain-tavily
 notebook
 tavily-python
 wikipedia
 trustcall
 langgraph-cli[inmem]
+voila
+jupyterlab
+python-dotenv
